@@ -4,3 +4,4 @@
 rebase-practiceブランチで編集（rebase conflict用）
 rebase用
 stash練習のtrack済
+stash save 2nd
